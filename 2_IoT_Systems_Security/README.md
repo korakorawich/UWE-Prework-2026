@@ -2,6 +2,7 @@
 I9001-Pre-Admission-Preparing-to-Study
 # UWE MSc Cyber Security - IoT Systems Security Pre-work
 
+For video : https://youtu.be/TYRxWToetYc
 Welcome! This repository contains my C programming submission for the IoT Systems Security module pre-work at UWE Bristol. 
 
 In cybersecurity, especially within IoT systems, the strength of cryptography heavily relies on the unpredictability of random numbers. The goal of this project is to evaluate the statistical properties of a given Pseudo-Random Number Generator (PRNG) to see if it produces a uniform and unbiased distribution.
